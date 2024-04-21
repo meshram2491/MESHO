@@ -1,5 +1,21 @@
+
 <html>
+
+<head>
+    <title>The kbd tag</title>
+    <style>
+        body {
+            text-align: center;
+        }
+    </style>
+</head>
+
 <body>
-<h2>Hello World!</h2>
+    <div class="gfg">GeeksforGeeks</div>
+    <kbd>A computer</kbd>
+    <kbd>science</kbd>
+    <kbd>portal</kbd>
 </body>
+
 </html>
+
